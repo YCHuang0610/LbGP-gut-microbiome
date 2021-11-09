@@ -1,2 +1,2 @@
 # LbGP-gut-microbiome
-Code repository of LbGP article
+It is a code repository of LbGP article
