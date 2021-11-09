@@ -1,0 +1,13 @@
+Genus	W1_CLT	W1_DSS	W1_LbGP	W2_CLT	W2_DSS	W2_LbGP	W3_CLT	W3_DSS	W3_LbGP	Domain	Phylum	Class	Order	Family
+Bacteroides	2.05362	18.83708	26.3427	3.46714	27.4799	12.48424	3.17274	7.74594	6.18672	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae
+Lactobacillus	16.36452	2.97062	5.76504	13.98094	2.85594	11.06236	9.23278	4.87174	4.69162	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae
+Akkermansia	5.52606	11.47314	5.2549	3.1299	25.52382	0.8961	1.22206	0.38906	3.38056	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae
+Escherichia-Shigella	0.59902	23.84486	13.78488	4.39502	2.69658	1.543	0.04966	0.20324	0.04266	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae
+Parabacteroides	0.38494	9.91096	10.8787	0.38184	11.3338	2.24468	0.50646	9.8835	0.55516	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae
+Parasutterella	1.28476	3.33566	6.12494	2.55108	5.8897	2.3627	2.15672	6.05344	3.7838	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae
+Eubacterium_fissicatena_group	2.1844	1.0512	1.16006	10.877	0.6833	4.15476	2.6567	1.53218	2.6229	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae
+Dubosiella	2.65658	0.65048	2.33848	3.8387	0.05598	3.09	6.14286	1.30602	3.2773	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae
+Blautia	0.3059	3.35026	4.56322	1.7305	1.17398	7.25154	1.15894	1.38026	0.4994	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae
+Alistipes	2.42154	0.5536	0.5575	2.22956	0.2543	1.94278	1.29026	1.8374	1.54362	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae
+Other	19.81686	14.08526	11.58568	16.64038	12.75998	21.42314	25.86632	26.1887	15.0098					
+Unclassified	46.40194	9.9367	11.64408	36.77792	9.29278	31.54456	46.5449	38.60892	58.4069					

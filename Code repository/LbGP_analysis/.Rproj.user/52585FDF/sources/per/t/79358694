@@ -1,0 +1,26 @@
+{
+    "id": "79358694",
+    "path": "~/Desktop/枸杞糖肽_肠道菌群/肠道菌群/omicsmart——剔除数据之后/beta/bray_heatmap.R",
+    "project_path": "beta/bray_heatmap.R",
+    "type": "r_source",
+    "hash": "283277515",
+    "contents": "",
+    "dirty": false,
+    "created": 1636280508111.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,30",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636116665,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636116665,
+    "read_only": false,
+    "read_only_alternatives": []
+}
